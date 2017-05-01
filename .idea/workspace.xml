@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9c1e438-2d64-44cc-b871-dce152365c54" name="Default" comment="" />
+    <ignored path="迅雷app.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DockManager">
+    <window id="3">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="recommend.less" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/less/recommend.less">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="28">
+                    <caret line="156" column="3" lean-forward="true" selection-start-line="156" selection-start-column="3" selection-end-line="156" selection-end-column="3" />
+                    <folding>
+                      <element signature="e#1502#2486#0" expanded="false" />
+                      <element signature="e#1598#2482#0" expanded="false" />
+                      <element signature="e#1771#2359#0" expanded="false" />
+                      <element signature="e#2379#2476#0" expanded="false" />
+                      <element signature="e#2507#2534#0" expanded="false" />
+                      <element signature="e#2544#2674#0" expanded="false" />
+                      <element signature="e#2692#2787#0" expanded="false" />
+                      <element signature="e#2800#2854#0" expanded="false" />
+                      <element signature="e#2866#2953#0" expanded="false" />
+                      <element signature="e#3590#5678#0" expanded="false" />
+                      <element signature="e#5684#6179#0" expanded="false" />
+                      <element signature="e#6187#8771#0" expanded="false" />
+                      <element signature="e#6590#7178#0" expanded="false" />
+                      <element signature="e#7198#7295#0" expanded="false" />
+                      <element signature="e#8778#9676#0" expanded="false" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="迅雷app" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="25" column="38" lean-forward="false" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+              <folding>
+                <element signature="n#ons-navigator#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#ons-page#0;n#ons-navigator#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#ons-tabbar#0;n#ons-page#0;n#ons-navigator#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="24" column="48" lean-forward="true" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="me.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/me.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+              <folding>
+                <element signature="n#div#1;n#div#0;n#ons-page#0;n#!!top" expanded="false" />
+                <element signature="n#ons-row#0;n#ons-page#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#ons-page#0;n#!!top" expanded="false" />
+                <element signature="n#ons-list#0;n#ons-page#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="recommendController.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/recommendController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="114" column="24" lean-forward="true" selection-start-line="114" selection-start-column="24" selection-end-line="114" selection-end-column="24" />
+              <folding>
+                <element signature="e#130#465#0" expanded="false" />
+                <element signature="e#487#1060#0" expanded="false" />
+                <element signature="e#1082#1363#0" expanded="false" />
+                <element signature="e#1385#1661#0" expanded="false" />
+                <element signature="e#1685#1881#0" expanded="false" />
+                <element signature="e#1906#2183#0" expanded="false" />
+                <element signature="e#2274#2364#0" expanded="false" />
+                <element signature="e#2406#2504#0" expanded="false" />
+                <element signature="e#2775#3164#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="recommend.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/page/recommend.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="157" column="11" lean-forward="true" selection-start-line="157" selection-start-column="11" selection-end-line="157" selection-end-column="11" />
+              <folding>
+                <element signature="n#style#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#ons-page#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#ons-page#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#ons-page#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#2;n#ons-page#0;n#!!top" expanded="true" />
+                <element signature="n#div#2;n#ons-page#0;n#!!top" expanded="false" />
+                <element signature="n#ons-carousel-item#0;n#ons-carousel#0;n#ons-page#0;n#!!top" expanded="false" />
+                <element signature="n#ons-carousel-item#1;n#ons-carousel#0;n#ons-page#0;n#!!top" expanded="false" />
+                <element signature="n#ons-carousel-item#2;n#ons-carousel#0;n#ons-page#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#ons-carousel-item#2;n#ons-carousel#0;n#ons-page#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#div#0;n#div#0;n#ons-carousel-item#3;n#ons-carousel#0;n#ons-page#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/search.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="784">
+              <caret line="56" column="26" lean-forward="true" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/js/registerController.js" />
+        <option value="$PROJECT_DIR$/PHP/registerPHP.php" />
+        <option value="$PROJECT_DIR$/js/mainController.js" />
+        <option value="$PROJECT_DIR$/page/find.html" />
+        <option value="$PROJECT_DIR$/page/me.html" />
+        <option value="$PROJECT_DIR$/page/search.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/page/register.html" />
+        <option value="$PROJECT_DIR$/js/recommendController.js" />
+        <option value="$PROJECT_DIR$/page/recommend.html" />
+        <option value="$PROJECT_DIR$/less/recommend.less" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-35" />
+    <option name="y" value="774" />
+    <option name="width" value="1280" />
+    <option name="height" value="736" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="迅雷app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="迅雷app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/PHP" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9c1e438-2d64-44cc-b871-dce152365c54" name="Default" comment="" />
+      <created>1489828543055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1489828543055</updated>
+      <workItem from="1489839596337" duration="2597000" />
+      <workItem from="1491712440363" duration="4531000" />
+      <workItem from="1492314888945" duration="7588000" />
+      <workItem from="1492350383188" duration="1049000" />
+      <workItem from="1493617852579" duration="12198000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27963000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-35" y="774" width="1280" height="736" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.225" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="24" column="53" lean-forward="false" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+          <folding>
+            <element signature="n#ons-navigator#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ons-page#0;n#ons-navigator#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ons-tabbar#0;n#ons-page#0;n#ons-navigator#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/me.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#ons-row#0;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#ons-list#0;n#ons-page#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="24" column="53" lean-forward="true" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+          <folding>
+            <element signature="n#ons-navigator#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ons-page#0;n#ons-navigator#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ons-tabbar#0;n#ons-page#0;n#ons-navigator#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/recommendController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding>
+            <element signature="e#130#465#0" expanded="false" />
+            <element signature="e#487#1060#0" expanded="false" />
+            <element signature="e#1082#1363#0" expanded="false" />
+            <element signature="e#1385#1661#0" expanded="false" />
+            <element signature="e#1685#1881#0" expanded="false" />
+            <element signature="e#1906#2183#0" expanded="false" />
+            <element signature="e#2274#2364#0" expanded="false" />
+            <element signature="e#2406#2504#0" expanded="false" />
+            <element signature="e#2775#3164#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/recommend.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1862">
+          <caret line="133" column="11" lean-forward="true" selection-start-line="133" selection-start-column="11" selection-end-line="133" selection-end-column="11" />
+          <folding>
+            <element signature="n#style#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#ons-page#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#ons-page#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#ons-carousel-item#0;n#ons-carousel#0;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#ons-carousel-item#1;n#ons-carousel#0;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#ons-carousel-item#2;n#ons-carousel#0;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#ons-carousel-item#2;n#ons-carousel#0;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#ons-carousel-item#3;n#ons-carousel#0;n#ons-page#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="7" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#ons-toolbar#0;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#4;n#div#0;n#form#0;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#div#4;n#div#0;n#form#0;n#ons-page#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/recommend.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="77" column="20" lean-forward="true" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="77" column="11" lean-forward="true" selection-start-line="77" selection-start-column="11" selection-end-line="77" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="25" column="31" lean-forward="false" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+          <folding>
+            <element signature="n#ons-navigator#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ons-page#0;n#ons-navigator#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ons-tabbar#0;n#ons-page#0;n#ons-navigator#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/recommendController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="130" column="0" lean-forward="true" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
+          <folding>
+            <element signature="e#130#465#0" expanded="false" />
+            <element signature="e#487#1060#0" expanded="false" />
+            <element signature="e#1082#1363#0" expanded="false" />
+            <element signature="e#1385#1661#0" expanded="false" />
+            <element signature="e#1685#1881#0" expanded="false" />
+            <element signature="e#1906#2183#0" expanded="false" />
+            <element signature="e#2274#2364#0" expanded="false" />
+            <element signature="e#2406#2504#0" expanded="false" />
+            <element signature="e#2775#3164#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/recommend.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#ons-page#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#ons-page#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#ons-carousel-item#0;n#ons-carousel#0;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#ons-carousel-item#1;n#ons-carousel#0;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#ons-carousel-item#2;n#ons-carousel#0;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#ons-carousel-item#2;n#ons-carousel#0;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#ons-carousel-item#3;n#ons-carousel#0;n#ons-page#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/mainController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="29" column="4" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+          <folding>
+            <element signature="e#147#613#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/find.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="39" column="11" lean-forward="false" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#ons-navigator#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ons-page#0;n#ons-navigator#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ons-tabbar#0;n#ons-page#0;n#ons-navigator#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/recommendController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1246">
+          <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+          <folding>
+            <element signature="e#130#465#0" expanded="false" />
+            <element signature="e#487#1060#0" expanded="false" />
+            <element signature="e#1082#1363#0" expanded="false" />
+            <element signature="e#1385#1661#0" expanded="false" />
+            <element signature="e#1685#1881#0" expanded="false" />
+            <element signature="e#1906#2183#0" expanded="false" />
+            <element signature="e#2274#2364#0" expanded="false" />
+            <element signature="e#2406#2504#0" expanded="false" />
+            <element signature="e#2775#3164#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/find.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="39" column="11" lean-forward="true" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/searchController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <folding>
+            <element signature="n#ons-navigator#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ons-page#0;n#ons-navigator#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ons-tabbar#0;n#ons-page#0;n#ons-navigator#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/recommendController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1246">
+          <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+          <folding>
+            <element signature="e#130#465#0" expanded="false" />
+            <element signature="e#487#1060#0" expanded="false" />
+            <element signature="e#1082#1363#0" expanded="false" />
+            <element signature="e#1385#1661#0" expanded="false" />
+            <element signature="e#1685#1881#0" expanded="false" />
+            <element signature="e#1906#2183#0" expanded="false" />
+            <element signature="e#2274#2364#0" expanded="false" />
+            <element signature="e#2406#2504#0" expanded="false" />
+            <element signature="e#2775#3164#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/recommend.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1932">
+          <caret line="138" column="11" lean-forward="false" selection-start-line="138" selection-start-column="11" selection-end-line="138" selection-end-column="11" />
+          <folding>
+            <element signature="n#style#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#ons-page#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#ons-page#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#ons-carousel-item#0;n#ons-carousel#0;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#ons-carousel-item#1;n#ons-carousel#0;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#ons-carousel-item#2;n#ons-carousel#0;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#ons-carousel-item#2;n#ons-carousel#0;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#ons-carousel-item#3;n#ons-carousel#0;n#ons-page#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/recommend.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#ons-navigator#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ons-page#0;n#ons-navigator#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ons-tabbar#0;n#ons-page#0;n#ons-navigator#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/registerPHP.php" />
+    <entry file="file://$PROJECT_DIR$/page/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="3" column="47" lean-forward="false" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/registerController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/registerController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/registerPHP.php" />
+    <entry file="file://$PROJECT_DIR$/js/searchController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app_module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="37" lean-forward="false" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cordova_plugins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cordova.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/mainController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="29" column="4" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+          <folding>
+            <element signature="e#147#613#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/find.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="1" column="21" lean-forward="true" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#ons-toolbar#0;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#4;n#div#0;n#form#0;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#div#4;n#div#0;n#form#0;n#ons-page#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="784">
+          <caret line="56" column="26" lean-forward="true" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/me.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#ons-row#0;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#ons-list#0;n#ons-page#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="24" column="48" lean-forward="true" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/recommend.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1218">
+          <caret line="87" column="1" lean-forward="false" selection-start-line="87" selection-start-column="1" selection-end-line="87" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/recommendController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="114" column="24" lean-forward="true" selection-start-line="114" selection-start-column="24" selection-end-line="114" selection-end-column="24" />
+          <folding>
+            <element signature="e#130#465#0" expanded="false" />
+            <element signature="e#487#1060#0" expanded="false" />
+            <element signature="e#1082#1363#0" expanded="false" />
+            <element signature="e#1385#1661#0" expanded="false" />
+            <element signature="e#1685#1881#0" expanded="false" />
+            <element signature="e#1906#2183#0" expanded="false" />
+            <element signature="e#2274#2364#0" expanded="false" />
+            <element signature="e#2406#2504#0" expanded="false" />
+            <element signature="e#2775#3164#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="25" column="38" lean-forward="false" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+          <folding>
+            <element signature="n#ons-navigator#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ons-page#0;n#ons-navigator#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ons-tabbar#0;n#ons-page#0;n#ons-navigator#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/recommend.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="157" column="11" lean-forward="true" selection-start-line="157" selection-start-column="11" selection-end-line="157" selection-end-column="11" />
+          <folding>
+            <element signature="n#style#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#ons-page#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#ons-page#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#ons-carousel-item#0;n#ons-carousel#0;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#ons-carousel-item#1;n#ons-carousel#0;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#ons-carousel-item#2;n#ons-carousel#0;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#ons-carousel-item#2;n#ons-carousel#0;n#ons-page#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#ons-carousel-item#3;n#ons-carousel#0;n#ons-page#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/recommend.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="156" column="3" lean-forward="true" selection-start-line="156" selection-start-column="3" selection-end-line="156" selection-end-column="3" />
+          <folding>
+            <element signature="e#1502#2486#0" expanded="false" />
+            <element signature="e#1598#2482#0" expanded="false" />
+            <element signature="e#1771#2359#0" expanded="false" />
+            <element signature="e#2379#2476#0" expanded="false" />
+            <element signature="e#2507#2534#0" expanded="false" />
+            <element signature="e#2544#2674#0" expanded="false" />
+            <element signature="e#2692#2787#0" expanded="false" />
+            <element signature="e#2800#2854#0" expanded="false" />
+            <element signature="e#2866#2953#0" expanded="false" />
+            <element signature="e#3590#5678#0" expanded="false" />
+            <element signature="e#5684#6179#0" expanded="false" />
+            <element signature="e#6187#8771#0" expanded="false" />
+            <element signature="e#6590#7178#0" expanded="false" />
+            <element signature="e#7198#7295#0" expanded="false" />
+            <element signature="e#8778#9676#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
