@@ -1,0 +1,48 @@
+<ons-page style="background-color:#F4F4F4 " ng-controller="registerController" id="register">
+    <ons-toolbar style="background-color: white">
+        <div class="left">
+            <ons-back-button></ons-back-button>
+        </div>
+        <div class="center">
+            注册
+        </div>
+    </ons-toolbar>
+    <form  method="get">
+        <div style="display: flex;margin: 20px 0;flex-direction: column;background-color: #fff">
+            <!--输入手机号-->
+            <div style="display: flex;padding: 10px" >
+                <div style="font-size: 14px;flex-basis: 70px;text-align: right"><span style="color: red">*</span>手机号:</div>
+                <div style="flex-grow: 2"><input type="text" placeholder="请输入手机号码" name="phone"></div>
+                <div style="font-size: 14px;color: grey"></div>
+            </div>
+            <!--输入密码-->
+            <div style="display: flex;padding: 10px" >
+                <div style="font-size: 14px;flex-basis:70px;text-align: right"><span style="color: red">*</span>密码:</div>
+                <div style="flex-grow: 2"><input type="text" placeholder="请输入密码" name="password"></div>
+                <div style="font-size: 14px;color: grey"></div>
+            </div>
+            <!--重置输入密码-->
+            <div style="display: flex;padding: 10px" >
+                <div style="font-size: 14px;flex-basis:70px;text-align: right"><span style="color: red">*</span>重置密码:</div>
+                <div style="flex-grow: 2"><input type="text" placeholder="请再一次输入密码" name="resetPassword"></div>
+                <div style="font-size: 14px;color: grey"></div>
+            </div>
+            <!--昵称-->
+            <div style="display: flex;padding: 10px" >
+                <div style="font-size: 14px;flex-basis:70px;text-align: right"><span style="color: red">*</span>昵称:</div>
+                <div style="flex-grow: 2"><input type="text" placeholder="请输入昵称" name="name"></div>
+                <div style="font-size: 14px;color: grey"></div>
+            </div>
+            <!--提交按钮-->
+            <div style="display: flex;padding: 10px" >
+                <div style="flex-basis: 10%"></div>
+                <div style="flex-grow: 5;"><input type="submit" value="同意并注册" style="width: 80%"></div>
+            </div>
+            <!--同意条款-->
+            <div style="display: flex;padding: 10px" >
+                <span style="font-size: 12px;color: grey">点击同意表示已阅读并同意<strong style="color: blue">用户服务协议</strong></span>
+            </div>
+        </div>
+    </form>
+</ons-page>
+

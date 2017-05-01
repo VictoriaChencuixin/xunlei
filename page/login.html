@@ -1,0 +1,34 @@
+<ons-page style="background-color: #f6f6f6" ng-controller="loginController" id="login">
+    <ons-toolbar>
+        <div class="left">
+            <ons-back-button></ons-back-button>
+        </div>
+        <div class="center">
+            登录
+        </div>
+        <div class="right rightDiv">
+           <ons-button ng-click="pushPage()">注册</ons-button>
+        </div>
+    </ons-toolbar>
+    <div class="divTop">
+        <ons-list>
+            <ons-list-item ng-repeat="input in allInput">
+                <div>
+                    <div><ons-icon icon={{input.icon}} ng-class="{changeColor:input.IsChangeColor}"></ons-icon></div>
+                    <div class="div_div_bottom">
+                        <input type="text" placeholder={{input.placeholder}} ng-focus="changeIconColor($index)"  ng-blur="cancelIconColor($index)">
+                    </div>
+                </div>
+            </ons-list-item>
+        </ons-list>
+    </div>
+    <ons-button modifier="large">登录</ons-button>
+    <div class="divBottom">
+        <div style="flex-grow: 3">忘记密码</div>
+        <div>
+            <ons-icon icon="ion-iphone"></ons-icon>
+            手机登陆
+        </div>
+    </div>
+
+</ons-page>

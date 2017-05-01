@@ -1,0 +1,80 @@
+<ons-page ng-controller="searchController" id="search" style="background-color: #F4F4F4">
+    <div class="top">
+        <div class="topDiv">
+            <div class="topDiv_left">
+                <ons-icon icon="ion-ios-search"></ons-icon>
+                <input type="text" placeholder="搜索电影、电视剧、综艺、动漫" >
+            </div>
+            <ons-icon icon="ion-archive" class="topDiv_right" ></ons-icon>
+        </div>
+    </div>
+    <div class="orderTitle" >
+        <div class="orderTitleItem" ng-class="{addBorder:$index==index}"
+             ng-repeat="title in titles" ng-click="change($index)">{{title.name}}
+        </div>
+    </div>
+    <ons-carousel var="carousels"  swipeable auto-scroll overscrollable ons-postchange="changeCarousel()" auto-refresh>
+        <!--热搜-->
+        <ons-carousel-item>
+            <ons-list>
+                <ons-list-item>今日热搜</ons-list-item>
+                 <ons-list-item class="hotSearchList">
+                     <ons-row>
+                         <ons-col>
+                             中国惊奇先生
+                             <span class="hot">热</span>
+                         </ons-col>
+                         <ons-col>
+                             天使归来
+                             <span class="hot">热</span>
+                         </ons-col>
+                     </ons-row>
+                 </ons-list-item>
+                <ons-list-item class="hotSearchList">
+                    <ons-row>
+                        <ons-col>
+                            鸡毛飞上天
+                            <span class="hot">热</span>
+                        </ons-col>
+                        <ons-col>一拳超人</ons-col>
+                    </ons-row>
+                </ons-list-item>
+                <ons-list-item class="hotSearchList">
+                    <ons-row>
+                        <ons-col>明星大侦探</ons-col>
+                        <ons-col>射雕英雄传</ons-col>
+                    </ons-row>
+                </ons-list-item>
+                <ons-list-item class="hotSearchList">
+                    <ons-row>
+                        <ons-col>昆仑决</ons-col>
+                        <ons-col>X战警</ons-col>
+                    </ons-row>
+                </ons-list-item>
+            </ons-list>
+        </ons-carousel-item>
+        <!--网站-->
+        <ons-carousel-item >
+            <ons-list class="font">
+                <ons-list-item>
+                        网址导航
+                        <div class="allWebsite">
+                            <span>全部</span>
+                            <ons-icon icon="ion-ios-arrow-right"></ons-icon>
+                        </div>
+                </ons-list-item>
+                <ons-list-item ng-repeat="item in items">
+                    <div class="disP">
+                        <div class="left">
+                            <div class="left_div" ng-class="item.color">{{item.num}}</div>
+                        </div>
+                        <div class="right">
+                            <div class="rightTopDiv">{{item.content}}</div>
+                            <div class="rightBottomDiv">{{item.website}}</div>
+                        </div>
+                    </div>
+                </ons-list-item>
+            </ons-list>
+        </ons-carousel-item>
+    </ons-carousel>
+</ons-page>

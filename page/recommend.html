@@ -1,0 +1,158 @@
+<style>
+    .modalShow{
+        width: 100%;
+        height: 100%;
+        position: fixed;
+        left: 0;
+        top: 0;
+        background-color: rgba(0,0,0,0.5);
+        z-index: 999999;
+    }
+    .modalImg{
+        width: 100%;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%,-55%);
+
+    }
+</style>
+<ons-page id="recommend" ng-controller="recommendController" style="background-color: #F4F4F4">
+    <div class="modalShow"  ng-show="showModal" ng-click="hideModal()">
+        <img class="modalImg" ng-src="{{imgSrc}}"/>
+    </div>
+    <div class="top">
+        <div class="topDiv">
+            <div class="topDiv_left">
+                <ons-icon icon="ion-ios-search"></ons-icon>
+                <input type="text" placeholder="搜索电影、电视剧、综艺、动漫" >
+            </div>
+            <ons-icon icon="ion-archive" class="topDiv_right" ></ons-icon>
+        </div>
+    </div>
+    <div class="orderTitle" style="height: 50px">
+        <div class="orderTitleItem" ng-class="{addBorder:$index==index}"
+             ng-repeat="title in titles" ng-click="change($index)">{{title.name}}
+        </div>
+    </div>
+    <ons-carousel var="carousels" swipeable auto-scroll overscrollable ons-postchange="changeCarousel()">
+        <!--精选-->
+        <ons-carousel-item>
+            <div class="carouselItem">
+                <ons-scroller>
+                    <ons-list>
+                        <ons-list-item ng-repeat="video in allVideo">
+                            <video src={{video.src}} type="video/mp4"  width="100%" controls></video>
+                        </ons-list-item>
+                    </ons-list>
+                </ons-scroller>
+            </div>
+        </ons-carousel-item>
+        <!--短片-->
+        <ons-carousel-item>
+            <div class="carouselItem">
+                <ons-scroller>
+                    <ons-list>
+                        <ons-list-item ng-repeat="movie in allMovies">
+                            <video src={{movie.src}} type="video/mp4" width="100%" height={{movie.height}} controls></video>
+                        </ons-list-item>
+                    </ons-list>
+                </ons-scroller>
+            </div>
+        </ons-carousel-item>
+        <!--分类-->
+        <ons-carousel-item>
+            <div class="carouselItem">
+                <div class="margin_top_bottom white" >
+                    <ons-row class="height50">
+                        <ons-col class="border" ng-repeat="item1 in items1">
+                            <ons-row>
+                                <ons-col class="ons-col-left"><img src={{item1.src}} width="100%" alt="{{item1.alt}}"></ons-col>
+                                <ons-col class="ons-col-right" ng-class="item1.color">{{item1.content}}</ons-col>
+                            </ons-row>
+                        </ons-col>
+                    </ons-row>
+                    <ons-row class="height50">
+                        <ons-col class="border" ng-repeat="item2 in items2">
+                            <ons-row>
+                                <ons-col class="ons-col-left"><img src={{item2.src}} width="100%" alt="{{item2.alt}}"></ons-col>
+                                <ons-col class="ons-col-right" ng-class="item2.color">{{item2.content}}</ons-col>
+                            </ons-row>
+                        </ons-col>
+                    </ons-row>
+                </div>
+                <div class="white">
+                    <ons-row>
+                        <ons-col  class="border classify_style">
+                            <ons-icon icon="ion-social-github" class="icon-size orange"></ons-icon>
+                            <div>排行榜</div>
+                        </ons-col>
+                        <ons-col  class="border classify_style">
+                            <ons-icon icon="ion-disc" class="icon-size red"></ons-icon>
+                            <div>好莱坞</div>
+                        </ons-col>
+                        <ons-col  class="border classify_style">
+                            <ons-icon icon="ion-easel" class="icon-size aqua"></ons-icon>
+                            <div>国内院线</div>
+                        </ons-col>
+                        <ons-col  class="border classify_style">
+                            <ons-icon icon="ion-social-youtube" class="icon-size blue"></ons-icon>
+                            <div>热播剧</div></ons-col>
+                    </ons-row>
+                    <ons-row>
+                        <ons-col  class="border classify_style">
+                            <ons-icon icon="ion-social-reddit-outline" class="icon-size red"></ons-icon>
+                            <div>美剧</div></ons-col>
+                        <ons-col  class="border classify_style">
+                            <ons-icon icon="ion-social-freebsd-devil" class="icon-size green"></ons-icon>
+                            <div>韩剧</div></ons-col>
+                        <ons-col  class="border classify_style">
+                            <ons-icon icon="ion-happy-outline" class="icon-size orange"></ons-icon>
+                            <div>喜剧</div></ons-col>
+                        <ons-col  class="border classify_style">
+                            <ons-icon icon="ion-ios-pie-outline" class="icon-size blue"></ons-icon>
+                            <div>科幻</div></ons-col>
+                    </ons-row>
+                    <ons-row>
+                        <ons-col  class="border classify_style">
+                            <ons-icon icon="fa fa-github-alt" class="icon-size blue"></ons-icon>
+                            <div>岛国</div></ons-col>
+                        <ons-col  class="border classify_style">
+                            <ons-icon icon="ion-social-snapchat" class="icon-size aqua"></ons-icon>
+                            <div>动作</div>
+                        </ons-col>
+                        <ons-col  class="border"></ons-col>
+                        <ons-col  class="border"></ons-col>
+                    </ons-row>
+                </div>
+            </div>
+        </ons-carousel-item>
+        <!--趣图-->
+        <ons-carousel-item>
+            <div class="carouselItem">
+               <div class="funImg_top" ng-repeat="img in allImg">
+                   <div class="_top">{{img.content}}</div>
+                   <div class="center"   ng-click="showImg(img.src)">
+                       <img src={{img.src}} alt="{{img.alt}}">
+                   </div>
+                   <div class="bottom">
+                       <ons-row>
+                           <ons-col>
+                               <ons-icon icon="fa fa-share-alt"></ons-icon>
+                               <div ng-click="">分享</div>
+                           </ons-col>
+                           <ons-col>
+                               <ons-icon icon="fa fa-file-text-o"></ons-icon>
+                               <div ng-click="">评论</div>
+                           </ons-col>
+                           <ons-col ng-click="changeColor($index)" ng-class="img.color">
+                               <ons-icon icon="fa fa-thumbs-o-up"></ons-icon>
+                               <div>赞{{img.score}}</div>
+                           </ons-col>
+                       </ons-row>
+                   </div>
+               </div>
+            </div>
+        </ons-carousel-item>
+    </ons-carousel>
+</ons-page>

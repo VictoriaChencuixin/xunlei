@@ -1,0 +1,53 @@
+<ons-page id="me" ng-controller="meController" style="background-color:#F4F4F4 ">
+    <!--header-->
+    <div class="meGlobeStyle">
+        <img src="img/user_center_default_avatar.png" alt="icon" class="userImg"  ng-click="pushPage()">
+        <div class="centerText">
+            <span>Hi</span>
+            <span>你好</span>
+            <br>
+            <span class="loginSpan" >登录后，下载更快哦~</span>
+        </div>
+        <div class="divButton">
+            <ons-button  class="loginButton" ng-click="pushPage()">立即登录</ons-button>
+        </div>
+    </div>
+    <!--下载管理-->
+    <ons-row class="loading-list">
+        <ons-col class="classify_style" ng-repeat="num in allNums">
+            <ons-icon icon={{num.icon}} class="icon-size" ng-class="num.color"></ons-icon>
+            <div>{{num.content}}</div>
+        </ons-col>
+    </ons-row>
+    <!--会员-->
+    <div class="member_style">
+        <div class="divText">
+            <ons-icon icon="ion-social-github" class="orange"></ons-icon>
+            <span>会员特权</span>
+            <div>
+                <span>会员独家专属活动</span>
+                <ons-icon icon="ion-ios-arrow-right"></ons-icon>
+            </div>
+
+        </div>
+        <ons-row class="memberList">
+            <ons-col ng-repeat="item in myIndex">
+                <ons-icon icon={{item.icon}} class="icon-size" ng-class="item.color"></ons-icon>
+                <div>{{item.content}}</div>
+            </ons-col>
+        </ons-row>
+    </div>
+    <!--任务-->
+    <div class="taskStyle">
+        <ons-icon icon="ion-ios-compose" class="blue"></ons-icon>
+        <span>我的任务</span>
+        <ons-button>签到</ons-button>
+    </div>
+    <!--设置-->
+    <ons-list>
+        <ons-list-item modifier="chevron" ng-repeat="i in allI">
+            <ons-icon icon={{i.icon}} class="blue"></ons-icon>
+            <span>{{i.content}}</span>
+        </ons-list-item>
+    </ons-list>
+</ons-page>

@@ -1,0 +1,453 @@
+#recommend .white {
+  background-color: #ffffff;
+}
+#recommend .red {
+  color: #ff0000;
+}
+#recommend .orange {
+  color: #ffa500;
+}
+#recommend .green {
+  color: #008000;
+}
+#recommend .aqua {
+  color: #00ffff;
+}
+#recommend .blue {
+  color: #1b66ff;
+}
+#recommend .green {
+  color: #008000;
+}
+#recommend .addBorder {
+  border-bottom: 2px solid #5e9cff;
+  color: #5e9cff;
+}
+#recommend .orderTitle {
+  display: flex;
+  justify-content: center;
+  background-color: #ffffff;
+  max-height: 520px;
+}
+#recommend .orderTitleItem {
+  width: 24%;
+  height: 44px;
+  line-height: 44px;
+  background-color: transparent;
+  margin: auto;
+  text-align: center;
+}
+#recommend .carouselItem {
+  background-color: #f4f4f4;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+#recommend .top {
+  background-color: #1b66ff;
+  width: 100%;
+  padding: 10px 0;
+}
+#recommend .top .topDiv {
+  width: 90%;
+  margin: 0 auto;
+  height: 25px;
+  overflow: hidden;
+  padding: 10px 0;
+}
+#recommend .top .topDiv .topDiv_left {
+  position: relative;
+  width: 90%;
+  height: 25px;
+  border-radius: 20px;
+  background-color: #ffffff;
+  display: inline-block;
+}
+#recommend .top .topDiv .topDiv_left ons-icon {
+  position: absolute;
+  top: 2.5px;
+  font-size: 20px;
+  color: #808080;
+  left: 3%;
+}
+#recommend .top .topDiv .topDiv_left input {
+  position: absolute;
+  left: 10%;
+  top: 2px;
+  width: 80%;
+}
+#recommend .top .topDiv .topDiv_right {
+  font-size: 25px;
+  color: #ffffff;
+  vertical-align: top;
+}
+#recommend .margin_top_bottom {
+  margin: 10px 0;
+}
+#recommend .border {
+  border: 1px solid #f4f4f4;
+}
+#recommend .border img {
+  width: 100%;
+  height: 90px;
+  float: left;
+}
+#recommend .classify_style {
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 13px;
+}
+#recommend .icon-size {
+  font-size: 30px;
+  padding-bottom: 7px;
+}
+#recommend .height50 {
+  height: 90px;
+}
+#recommend .height50 .ons-col-left {
+  width: 75%;
+}
+#recommend ons-carousel {
+  height: 670px;
+}
+#recommend ons-carousel .funImg_top {
+  background-color: #ffffff;
+  height: 200px;
+  margin-bottom: 20px;
+  font-size: 10px;
+}
+#recommend ons-carousel .funImg_top ._top {
+  padding: 10px;
+  font-size: 16px;
+}
+#recommend ons-carousel .funImg_top .center {
+  padding: 0 20px;
+  height: 100px;
+  overflow: hidden;
+}
+#recommend ons-carousel .funImg_top .center img {
+  width: 100%;
+}
+#recommend ons-carousel .funImg_top .bottom {
+  text-align: center;
+  padding: 20px 0;
+}
+#recommend ons-carousel .ons-col-right {
+  font-size: 15px;
+  padding: 35px 0;
+  text-align: center;
+}
+#me .white {
+  background-color: #ffffff;
+}
+#me .red {
+  color: #ff0000;
+}
+#me .orange {
+  color: #ffa500;
+}
+#me .green {
+  color: #008000;
+}
+#me .aqua {
+  color: #00ffff;
+}
+#me .blue {
+  color: #1b66ff;
+}
+#me .green {
+  color: #008000;
+}
+#me .meGlobeStyle {
+  display: flex;
+  height: 60px;
+  background-color: #1b66ff;
+  padding: 30px 15px;
+  color: #ffffff;
+}
+#me .userImg {
+  width: 60px;
+}
+#me .centerText {
+  flex-grow: 5;
+  padding: 10px;
+}
+#me .loginSpan {
+  font-size: 10px;
+}
+#me .divButton {
+  padding: 15px 0;
+}
+#me .loginButton {
+  border: 1px solid #ffffff;
+  background-color: #1b66ff;
+  font-size: 10px;
+  border-radius: 25px;
+  height: 30px;
+  line-height: 20px;
+}
+#me .loading-list {
+  height: 80px;
+  background-color: #ffffff;
+}
+#me .icon-size {
+  font-size: 40px;
+  padding-bottom: 7px;
+}
+#me .classify_style {
+  margin: 0 auto;
+  text-align: center;
+  padding: 10px 0;
+  font-size: 13px;
+}
+#me .member_style {
+  height: 150px;
+  background-color: #ffffff;
+  margin: 10px 0;
+  font-size: 11px;
+}
+#me .member_style .icon-size {
+  font-size: 60px;
+}
+#me .member_style .divText {
+  padding: 20px 10px 5px;
+}
+#me .member_style .divText span {
+  font-size: 13px;
+  padding: 20px 0 0 5px;
+}
+#me .member_style .divText div {
+  float: right;
+}
+#me .member_style .memberList {
+  text-align: center;
+  padding: 10px 0;
+}
+#me .taskStyle {
+  height: 20px;
+  background-color: #ffffff;
+  padding: 15px 10px;
+  margin-bottom: 10px;
+}
+#me .taskStyle span {
+  padding-left: 5px;
+}
+#me .taskStyle ons-button {
+  border-radius: 25px;
+  height: 20px;
+  font-size: 11px;
+  line-height: 12px;
+  float: right;
+  background-color: #ff0000;
+  padding-left: 2px;
+}
+#me .taskButton {
+  border-radius: 25px;
+  height: 20px;
+  font-size: 10px;
+  line-height: 10px;
+  float: right;
+  background-color: #ff0000;
+}
+#me ons-list-item .blue {
+  color: #1b66ff;
+}
+#me ons-list-item span {
+  padding-left: 10px;
+}
+#find .red {
+  color: #ff0000;
+}
+#find .orange {
+  color: #ffa500;
+}
+#find .aqua {
+  color: #00ffff;
+}
+#find .blue {
+  color: #1b66ff;
+}
+#find .top {
+  height: 70px;
+  background-color: #1b66ff;
+  text-align: center;
+  line-height: 70px;
+  color: #ffffff;
+}
+#find ons-list-item {
+  height: 60px;
+  line-height: 60px;
+}
+#find ons-list-item span {
+  font-size: 15px;
+}
+#find ons-list-item ons-icon {
+  width: 30px;
+}
+#find .bottom {
+  margin-top: 10px;
+  background-color: #ffffff;
+}
+#search .red {
+  background-color: #ff0000;
+}
+#search .orange {
+  background-color: orange;
+}
+#search .gray {
+  background-color: gray;
+}
+#search .top {
+  background-color: #1b66ff;
+  width: 100%;
+  padding: 10px 0;
+}
+#search .top .topDiv {
+  width: 90%;
+  margin: 0 auto;
+  height: 25px;
+  overflow: hidden;
+  padding: 10px 0;
+}
+#search .top .topDiv .topDiv_left {
+  position: relative;
+  width: 90%;
+  height: 25px;
+  border-radius: 20px;
+  background-color: #ffffff;
+  display: inline-block;
+}
+#search .top .topDiv .topDiv_left ons-icon {
+  position: absolute;
+  top: 2.5px;
+  font-size: 20px;
+  color: #808080;
+  left: 3%;
+}
+#search .top .topDiv .topDiv_left input {
+  position: absolute;
+  left: 10%;
+  top: 2px;
+  width: 80%;
+}
+#search .top .topDiv .topDiv_right {
+  font-size: 25px;
+  color: #ffffff;
+  vertical-align: top;
+}
+#search .orderTitle {
+  display: flex;
+  justify-content: center;
+  background-color: #ffffff;
+}
+#search .orderTitle .addBorder {
+  border-bottom: 2px solid #5e9cff;
+  color: #5e9cff;
+}
+#search .orderTitle .orderTitleItem {
+  width: 24%;
+  height: 44px;
+  line-height: 44px;
+  background-color: transparent;
+  margin: auto;
+  text-align: center;
+}
+#search ons-carousel {
+  height: 520px;
+  margin-top: 10px;
+}
+#search ons-carousel ons-col {
+  border: 1px solid #f4f4f4;
+  font-size: 15px;
+}
+#search ons-carousel ons-col .hot {
+  width: 15px;
+  height: 15px;
+  padding: 0 5px;
+  background-color: #ff0000;
+  color: #ffffff;
+  font-size: 10px;
+}
+#search ons-carousel .disP {
+  display: flex;
+  height: 60px;
+}
+#search ons-carousel .disP .left {
+  padding: 11px;
+}
+#search ons-carousel .disP .left .left_div {
+  width: 20px;
+  height: 20px;
+  color: #ffffff;
+  line-height: 20px;
+  text-align: center;
+}
+#search ons-carousel .disP .right {
+  display: flex;
+  flex-direction: column;
+  height: 70px;
+}
+#search ons-carousel .disP .right .rightTopDiv {
+  line-height: 17px;
+  padding: 14px 0 5px;
+}
+#search ons-carousel .disP .right .rightBottomDiv {
+  font-size: 10px;
+  line-height: 20px;
+  color: #808080;
+}
+#search .hotSearchList {
+  padding: 0;
+  text-indent: 13px;
+}
+#search .allWebsite {
+  float: right;
+}
+#search .font {
+  font-size: 15px;
+}
+#login .changeColor {
+  color: #1b66ff;
+}
+#login ons-toolbar {
+  background-color: #ffffff;
+}
+#login ons-toolbar .rightDiv {
+  padding: 8px 5px;
+}
+#login ons-toolbar .rightDiv ons-button {
+  background-color: #ffffff;
+  color: #5e9cff;
+  border-radius: 5px;
+  border: 1px solid #5e9cff;
+  line-height: 17px;
+  font-size: 15px;
+  width: auto;
+}
+#login .divTop {
+  background-color: #ffffff;
+  margin: 20px 0;
+}
+#login .divTop ons-list-item {
+  padding: 20px;
+}
+#login .divTop ons-list-item div {
+  display: flex;
+}
+#login .divTop ons-list-item div .div_div_bottom {
+  width: 100%;
+}
+#login .divTop ons-list-item div .div_div_bottom input {
+  width: 100%;
+  font-size: 14px;
+}
+#login ons-button {
+  width: 90%;
+  margin: 0 auto;
+}
+#login .divBottom {
+  display: flex;
+  padding: 20px 5%;
+  color: #1b66ff;
+}
